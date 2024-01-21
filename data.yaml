@@ -1,0 +1,5 @@
+train: C:\Data_s\cnn_prj\train
+val: C:\Data_s\cnn_prj\val
+
+nc: 1
+name: ["helmet"]
