@@ -1,5 +1,5 @@
 # Face Identification and Helmet Detection
-## This application is used to identify a person's face and detect whether that person is wearing a helmet or not.
+### This application is used to identify a person's face and detect whether that person is wearing a helmet or not.
 
 ![image](https://github.com/rahul-sarvaiya/Face_Identification/assets/61679330/c7b186b1-5bf7-4f81-8f72-b65997c1693d)
 
