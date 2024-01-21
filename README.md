@@ -1,5 +1,5 @@
 # Face Identification and Helmet Detection
-### This application is used to identify a person's face and detect whether that person is wearing a helmet or not.
+#### This application is used to identify a person's face and detect whether that person is wearing a helmet or not.
 
 ![image](https://github.com/rahul-sarvaiya/Face_Identification/assets/61679330/c7b186b1-5bf7-4f81-8f72-b65997c1693d)
 
@@ -14,3 +14,9 @@
 ![image](https://github.com/rahul-sarvaiya/Face_Identification/assets/61679330/733da80c-1382-4486-907b-08cbd6904d64)
 
 ![image](https://github.com/rahul-sarvaiya/Face_Identification/assets/61679330/ac9c2292-045a-48be-87b6-4cf5d403d462)
+
+### Steps to Run these files:
+##### 1. Install Flask pip install flask
+##### 2. Install all the libraries that are listed in requirements.txt pip install -r requirements.txt
+##### 3. Create a virtual environment (venv file)
+##### 4. Run the application by python app.py
